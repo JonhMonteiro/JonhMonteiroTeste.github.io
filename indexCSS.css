@@ -1,0 +1,45 @@
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:100%; } */
+    }
+
+@media only screen and (max-device-width: 900px) {
+        /* .menu { width:600px; } */
+     }
+
+@media only screen and (max-device-width: 700px) {
+            /* .menu { width:400px; } */
+    }
+
+p{
+    font-family: "Armonioso", Courier, monospace;
+    font-size: 35px;
+}
+
+button:hover{
+
+    display: flex;
+    justify-content: center;
+
+
+    border: none;
+    padding: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background .3s;
+    border-radius: 5px;
+   
+
+    
+
+    background-color: #D6D6D6;
+	color: #000000;
+	border-bottom: 3PX solid #FFB6C1;
+}
+
+.Rodape{
+    font-family: "Armonioso", Courier, monospace;
+    font-size: 15px;   
+    color:  rgb(0, 0, 0);
+}
+
+
